@@ -1,0 +1,5 @@
+Create three application projects for A53, R5_0, and R5_1
+respectively. `src/` should be used as the source directory for the
+A53 project. `r5poll/` is the source directory for the R5_0
+project. `eccengine` is the source directory for the R5_1 project.
+`include/` should be added as an include directory for all projects.
